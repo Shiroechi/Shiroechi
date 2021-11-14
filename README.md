@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+I'm dotnet developer especialy C# and currently live in Indonesia.
+
+Website: [https:articlearn.id](https:articlearn.id)
+
+
 <!--
 **Shiroechi/Shiroechi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
