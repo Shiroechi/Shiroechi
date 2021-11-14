@@ -3,7 +3,7 @@
 
 I'm dotnet developer especialy C# and currently live in Indonesia.
 
-Website: [https:articlearn.id](https:articlearn.id)
+Website: [articlearn.id](https://articlearn.id/)
 
 
 <!--
