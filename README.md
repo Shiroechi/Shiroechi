@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm dotnet developer especialy C# and currently live in Indonesia.
+I'm dotnet developer especially C# and currently live in Indonesia.
 
 <!--
 **Shiroechi/Shiroechi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
