@@ -17,6 +17,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Dynamic name](https://github-readme-stats.vercel.app/api?username=shiroechi&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shiroechi&langs_count=10&layout=compact&theme=tokyonight)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shiroechi&show_icons=true&theme=dark" width=400>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiroechi&layout=compact&langs_count=50&hide=jupyter%20notebook,css,html&show_icons=true&theme=dark">
+</p>
